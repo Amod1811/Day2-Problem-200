@@ -18,5 +18,6 @@ public class ReverseNumber {
 		int num = sc.nextInt();
 		 int rev =reverseNum(num) ;
 		 System.out.println("Reverse number is:" + rev);
+	
 	}
 }

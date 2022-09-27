@@ -18,5 +18,6 @@ public class DigitToWord {
 		else {
 			System.out.println("Number is not present");
 		}
+		
 	}
 }
